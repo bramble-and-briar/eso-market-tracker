@@ -1,7 +1,7 @@
 export const MARKET_STATS = {
   trackedItems: 44_072,
   pricingRecords: 368_227,
-  observations: 5_036_387,
+  observations: 5_036_436,
   consoleMarkets: 4,
-  lastUpdated: "2026-10-09",
+  lastUpdated: "2026-10-10",
 } as const;
